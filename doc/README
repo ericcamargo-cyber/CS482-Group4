@@ -1,0 +1,5 @@
+To replicate our results, or use the code to determine your own home's price, you would 
+need to get every variable listed for the house, and then implement it into the test and 
+train csv files with its own unique ID.  You would then run all of the code, and find the newly
+created "Data_Tested" file containing your home with the ID used, and a derieved value for the 
+newly added home.
