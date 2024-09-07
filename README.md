@@ -1,5 +1,5 @@
-# CS482-Group4
-Group 4's project on House Prices and advanced regression techniques
+# CS482
+My project on House Prices and advanced regression techniques
 
 What is the problem that you will be investigating? Why is it interesting?
 
